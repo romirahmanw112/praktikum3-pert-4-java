@@ -2,7 +2,7 @@
 
 |Nama|NIM|Kelas|Mata Kuliah|
 |----|---|-----|------|
-|**Romi Rahman**|**312310644**|**TI.23.A6**|**Pemrograman Orientasi Objek**|
+|**Romi Rahman**|**312310581**|**TI.23.A6**|**Pemrograman Orientasi Objek**|
 
 ![gambar](Tugas-Pemrograman-Orientasi-Objek-Pert4/ss1.jpeg)
 
